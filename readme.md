@@ -1,6 +1,10 @@
 # 📋 Project Overview
 College Event Management System is a web-based application designed to streamline the planning, organization, and execution of college events. Built using PHP and MySQL, this system provides a centralized platform for administrators, staff coordinators, and student coordinators to efficiently manage event-related activities.
 
+## Screenshots
+![Picture1](Picture1.png)
+![Picture2](Picture4.png)
+
 ## 🔑 Key Features
 
 ### Role-Based Access
