@@ -3,7 +3,7 @@ College Event Management System is a web-based application designed to streamlin
 
 ## Screenshots
 ![Picture1](Picture1.png)
-![Picture2](Picture4.png)
+![Picture2](Picture2.png)
 
 ## 🔑 Key Features
 
